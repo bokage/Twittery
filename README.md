@@ -20,6 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 ### Composing a tweet: 
 <img src='http://g.recordit.co/LMN41U9ZRT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-### Log in
+
+### Scrolling and pull-to-refresh:
 <img src='http://g.recordit.co/5R3AB6KomY.gif' width='' alt='Video Walkthrough' />
 
