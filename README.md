@@ -1,6 +1,6 @@
 # Twittery
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a iOS Twitter app, made to view, compose, favorite, and retweet tweets.
 
 ## Features
 - User can compose a tweet. 
