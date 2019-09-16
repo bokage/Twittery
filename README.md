@@ -18,7 +18,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-### Composing a tweet: 
+### Tweeting and Favoriting: 
 <img src='http://g.recordit.co/LMN41U9ZRT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
 
 ### Scrolling and pull-to-refresh:
