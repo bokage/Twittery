@@ -1,4 +1,4 @@
-# Twittery
+# Twitterly
 
 *Twitter clone that allows users to view a customized feed, pull to refresh, and most importantly compose, favorite, and retweet tweets!*
 
