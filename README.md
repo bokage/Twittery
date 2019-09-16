@@ -1,6 +1,6 @@
 # Twittery
 
-*This is a iOS Twitter app, made to view, compose, favorite, and retweet tweets.*
+*Twitter clone that allows users to view a customized feed, pull to refresh, and most importantly compose, favorite, and retweet tweets!*
 
 ## Features
 - User can compose a tweet. 
