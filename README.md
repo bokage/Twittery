@@ -16,7 +16,7 @@
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented features:
 
 ### Tweeting and Favoriting: 
 <img src='http://g.recordit.co/LMN41U9ZRT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
