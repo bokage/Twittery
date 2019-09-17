@@ -19,8 +19,8 @@
 Here's a walkthrough of implemented features:
 
 ### Tweeting and Favoriting: 
-<img src='http://g.recordit.co/LMN41U9ZRT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
+<img src='./demo/tweet_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
 
 ### Scrolling and pull-to-refresh:
-<img src='http://g.recordit.co/5R3AB6KomY.gif' width='' alt='Video Walkthrough' height="500"/>
+<img src='./demo/scroll_demo.gif' width='' alt='Video Walkthrough' height="500"/>
 
